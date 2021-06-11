@@ -85,8 +85,12 @@
     "react-inspector": "=5.1.1",
 =======
     "react-immutable-pure-component": "^2.2.0",
+<<<<<<< HEAD
     "react-inspector": "^2.3.0",
 >>>>>>> chore(deps): update redux-immutable-pure-component to 2.2.0
+=======
+    "react-inspector": "^5.1.1",
+>>>>>>> chore(deps): update react-inspector to v5.1.1
     "react-motion": "^0.5.2",
 <<<<<<< HEAD
     "react-redux": "=7.2.4",
