@@ -80,35 +80,13 @@
     "react-debounce-input": "^3.2.3",
     "react-dom": "=17.0.2",
     "react-immutable-proptypes": "2.2.0",
-<<<<<<< HEAD
     "react-immutable-pure-component": "=2.2.0",
     "react-inspector": "=5.1.1",
-=======
-    "react-immutable-pure-component": "^2.2.0",
-<<<<<<< HEAD
-    "react-inspector": "^2.3.0",
->>>>>>> chore(deps): update redux-immutable-pure-component to 2.2.0
-=======
-    "react-inspector": "^5.1.1",
->>>>>>> chore(deps): update react-inspector to v5.1.1
     "react-motion": "^0.5.2",
-<<<<<<< HEAD
     "react-redux": "=7.2.4",
-=======
-    "react-redux": "^7.2.4",
->>>>>>> chore(deps): update react-redux to v7.2.4
     "react-syntax-highlighter": "^15.4.3",
-<<<<<<< HEAD
-<<<<<<< HEAD
     "redux": "=4.1.0",
-=======
-    "redux": "=3.7.2",
->>>>>>> chore(deps-dev): update redux-immutable to v4.0.0
     "redux-immutable": "=4.0.0",
-=======
-    "redux": "^4.1.0",
-    "redux-immutable": "^4.0.0",
->>>>>>> chore(deps): update redux to v4.1.0
     "remarkable": "^2.0.1",
     "reselect": "^4.0.0",
     "serialize-error": "^8.1.0",
@@ -132,13 +110,8 @@
     "@commitlint/cli": "^12.1.4",
     "@commitlint/config-conventional": "^12.1.4",
     "@jest/globals": "=26.6.2",
-<<<<<<< HEAD
     "@release-it/conventional-changelog": "=3.0.1",
     "@wojtekmaj/enzyme-adapter-react-17": "=0.6.2",
-=======
-    "@release-it/conventional-changelog": "=1.1.4",
-    "@wojtekmaj/enzyme-adapter-react-17": "=0.6.1",
->>>>>>> test(just-test-in-node): fix npm script
     "autoprefixer": "^10.2.6",
     "babel-loader": "^8.1.0",
     "babel-plugin-lodash": "=3.3.4",
